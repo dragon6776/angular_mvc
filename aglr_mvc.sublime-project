@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "angular_mvc\\Views"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "angular_mvc\\Scripts"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "angular_mvc\\Content"
+		}
+	]
+}

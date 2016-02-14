@@ -1,0 +1,16 @@
+﻿
+@{
+    Layout = null;
+}
+
+<h2>Danh sach chuyen muc</h2>
+
+
+<div ng-controller="categoryController">
+    <table class="table table-bordered">
+        <tr ng-repeat="item in categories">
+            <td>{{item.CategoryName}}</td>
+        </tr>
+    </table>
+</div>
+

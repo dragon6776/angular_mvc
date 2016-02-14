@@ -1,0 +1,15 @@
+﻿
+@{
+    Layout = null;
+}
+
+<h2>Danh sach San pham</h2>
+
+<div ng-controller="productController">
+    <table class="table table-bordered">
+        <tr ng-repeat="item in products">
+            <td>{{item.ProductName}}</td>
+        </tr>
+    </table>
+</div>
+

@@ -1,0 +1,689 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"resource"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"zo",
+				"zoomSelectedArea"
+			],
+			[
+				"map_o",
+				"map_object"
+			],
+			[
+				"array",
+				"array_paths"
+			],
+			[
+				"fil",
+				"fileUploads"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mysql_db",
+				"mysql_select_db"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"tab",
+				"tableTag"
+			],
+			[
+				"tbo",
+				"tbodyTag"
+			],
+			[
+				"body",
+				"modal-body"
+			],
+			[
+				"tex",
+				"textNode"
+			],
+			[
+				"create",
+				"createTextNode"
+			],
+			[
+				"num",
+				"num_cols"
+			],
+			[
+				"crate",
+				"createElement"
+			],
+			[
+				"pas",
+				"Password"
+			],
+			[
+				"con",
+				"confirmpassword"
+			],
+			[
+				"car",
+				"cart_aray"
+			],
+			[
+				"exec",
+				"execQuery"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"arr",
+				"arr_products"
+			],
+			[
+				"ar",
+				"arr_products"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "angular_mvc/Views/Product/Index.cshtml",
+			"settings":
+			{
+				"buffer_size": 255,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "angular_mvc/Scripts/services.js",
+			"settings":
+			{
+				"buffer_size": 294,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "angular_mvc/Scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 545,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "angular_mvc/Scripts/controllers.js",
+			"settings":
+			{
+				"buffer_size": 773,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "angular_mvc/Views/Home/Contact.cshtml",
+			"settings":
+			{
+				"buffer_size": 438,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "angular_mvc/Views/Shared/_Layout.cshtml",
+			"settings":
+			{
+				"buffer_size": 2340,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/SOURCES/DEMOS/angular_mvc/angular_mvc/Scripts/services.js",
+		"/D/SOURCES/DEMOS/angular_mvc/angular_mvc/Scripts/app.js",
+		"/D/SOURCES/DEMOS/AGLR/angular-phonecat-master/app/index.html",
+		"/D/TMT SOLUTIONS/MyPhanCanTho/Lotte/Content/themes/angulr/js/app.js",
+		"/D/SOURCES/REAL ESTATE/RealEstate/DatWeb.Website/Themes/RealEstate/Content/plugins/mapael/custom.js",
+		"/C/Users/10650_000/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/10650_000/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/10650_000/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/SOURCES/REAL ESTATE/RealEstate/DatWeb.Website/Themes/RealEstate/Content/plugins/mapael/js/maps/ecolakes_maps.js",
+		"/C/Program Files/Git/mingw64/share/doc/git-doc/git-push.html",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/D/SOURCES/DEMOS/AGLR/angular-phonecat-master/app/phones/phones.json",
+		"/C/Users/10650_000/AppData/Local/Temp/fz3temp-1/Web.config",
+		"/C/Users/10650_000/AppData/Local/Temp/fz3temp-1/github.json",
+		"/D/SOURCES/REAL ESTATE/RealEstate/DatWeb.Website/Themes/RealEstate/Content/plugins/mapael/js/maps/paths.json",
+		"/D/SOURCES/DEMOS/AGLR/angular-phonecat-master/app/phones/nexus-s.json",
+		"/D/SOURCES/DEMOS/AGLR/angular-phonecat-master/app/phones/samsung-galaxy-tab.json",
+		"/D/SOURCES/DEMOS/AGLR/angular-phonecat-master/bower.json",
+		"/D/SOURCES/DEMOS/AGLR/angular-phonecat-master/package.json",
+		"/D/USERS/Desktop/Demo/closurepitfall.js",
+		"/D/PUBLISHED SITES/bandobinhduong.com/Web.config",
+		"/D/USERS/Desktop/Demo/closurepitfall.html",
+		"/D/USERS/Desktop/Demo/tsst.js",
+		"/D/USERS/Desktop/demo.html",
+		"/D/SOURCES/DEMOS/autofac demo/MVCWithAutofacSol/MVCWithAutofac.Data/App.config",
+		"/C/wamp/www/truongduchuyblog/wp-content/themes/twentytwelve/category.php",
+		"/C/wamp/www/truongduchuyblog/wp-content/themes/twentytwelve/style.css",
+		"/C/wamp/www/truongduchuyblog/wp-content/themes/twentytwelve/search.php",
+		"/C/wamp/www/truongduchuyblog/wp-content/themes/fashionbuzz/index.php",
+		"/C/wamp/www/truongduchuyblog/wp-content/themes/twentytwelve/content.php",
+		"/C/wamp/www/pagingDemo/function/bookBusiness.php",
+		"/D/CLOUDS/Dropbox/HCDH (1)/ĐỀ THI 2015/mon chuyen ngành/TSDH2015_1/TSDH2015_1/xlUpload.php",
+		"/D/CLOUDS/Dropbox/HCDH (1)/ĐỀ THI 2015/mon chuyen ngành/TSDH2015_1/TSDH2015_1/DataProvider.php",
+		"/C/wamp/www/pagingDemo/function/bookPresentation.php",
+		"/C/wamp/www/pagingDemo/function/bookModel.php",
+		"/C/wamp/www/demo_upload/index.php",
+		"/C/wamp/www/demo_upload/logout.php",
+		"/C/wamp/www/demo_upload/login.php",
+		"/C/wamp/www/demo_upload_nghiep/index.php",
+		"/C/wamp/www/demo_upload/delete_image.php",
+		"/D/CLOUDS/Dropbox/HCDH (1)/ĐỀ THI 2015/mon chuyen ngành/TSDH2015_1/TSDH2015_1/formUpload.php",
+		"/C/wamp/www/demo/index.php",
+		"/C/wamp/www/pagingDemo/library.php",
+		"/C/wamp/www/pagingDemo/index.php",
+		"/D/CLOUDS/Dropbox/HCDH (1)/Lập Trình Web/De Cuong Lap Trinh Web/Code thầy Nam/pagingDemo/function/bookPresentation.php",
+		"/D/CLOUDS/Dropbox/HCDH (1)/Lập Trình Web/De Cuong Lap Trinh Web/Code thầy Nam/pagingDemo/index.php",
+		"/D/CLOUDS/Dropbox/HCDH (1)/Lập Trình Web/huy download/src/04.RadioArray.html",
+		"/D/CLOUDS/Dropbox/HCDH (1)/Lập Trình Web/huy download/src/08.Change.html",
+		"/D/CLOUDS/Dropbox/HCDH (1)/Lập Trình Web/huy download/src/01.FormFields.html",
+		"/D/CLOUDS/Dropbox/HCDH (1)/Lập Trình Web/huy download/src/06.SelectMenus.html",
+		"/D/CLOUDS/Dropbox/HCDH (1)/Lập Trình Web/huy download/src/05.Checkboxes.html",
+		"/D/CLOUDS/Dropbox/HCDH (1)/Lập Trình Web/huy download/src/02.Login.html",
+		"/D/CLOUDS/Dropbox/HCDH (1)/Lập Trình Web/huy download/src/03.Login2.html",
+		"/C/Users/10650_000/AppData/Local/Temp/Temp1_TSDH2015_1.zip/TSDH2015_1/xlUpload.php",
+		"/C/Users/10650_000/AppData/Local/Temp/Temp1_TSDH2015_1.zip/TSDH2015_1/index.php",
+		"/C/Users/10650_000/AppData/Local/Temp/Temp1_TSDH2015_1.zip/TSDH2015_1/formUpload.php",
+		"/C/wamp/www/demo/index.html",
+		"/D/SOURCES/LAYOUTS + PLUGINS/JQUERY PLUGINS/ckeditor/config.js",
+		"/D/USERS/Desktop/Demo/demo.html",
+		"/D/USERS/Desktop/Demo/demodropdown/demo.html",
+		"/C/Users/10650_000/AppData/Local/Temp/fz3temp-1/HeaderLinks.cshtml",
+		"/C/Users/10650_000/AppData/Local/Temp/fz3temp-1/Header 2.cshtml",
+		"/C/Users/10650_000/AppData/Local/Temp/fz3temp-1/Header.cshtml",
+		"/D/USERS/Desktop/app.js",
+		"/D/USERS/Desktop/respond.js",
+		"/D/PROJECTS/VIETRC ROOMS/VIETRC/Presentation/Nop.Web/Administration/Views/Product/_CreateOrUpdate.Info.cshtml",
+		"/D/SOURCES/DEMOS/CK Editor demo/index.html",
+		"/C/Users/10650_000/AppData/Local/Temp/fz3temp-1/OnlineSupport.cshtml",
+		"/C/Users/10650_000/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/10650_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/SOURCES/LAYOUTS + PLUGINS/JQUERY PLUGINS/ckeditor/styles.js",
+		"/D/SOURCES/REAL ESTATE/RealEstate/DatWeb.Website/Themes/RealEstate/Content/plugins/mapael/js/maps/maparea_object_input.js",
+		"/D/SOURCES/REAL ESTATE/RealEstate/DatWeb.Website/Themes/RealEstate/Content/plugins/mapael/js/maps/map_data.js",
+		"/D/USERS/Downloads/yourmapname (7).js",
+		"/D/SOURCES/REAL ESTATE/SVG/AI/export_file/mp3.svg",
+		"/D/SOURCES/kendoui/demo.html",
+		"/D/USERS/Downloads/yourmapname (8).js",
+		"/D/SOURCES/kendoui/changelog.html",
+		"/D/SOURCES/kendoui/js/jquery.min.js",
+		"/D/SOURCES/telerik.kendoui.2015.3.930.core/js/jquery.min.js",
+		"/D/USERS/Downloads/yourmapname (6).js",
+		"/D/PROJECTS/Media/wp/index.html",
+		"/D/PROJECTS/BATDONGSAN/RealEstate/DatWeb.Website/Themes/RealEstate/Content/demo.html",
+		"/D/PROJECTS/Media/wp/index1.html",
+		"/D/PROJECTS/Media/index.html",
+		"/D/USERS/Desktop/Demo/bottom_man.html",
+		"/D/USERS/Desktop/Demo/demo_fb.html",
+		"/D/USERS/Downloads/TMT_DemoQuanLyKho/TMT_DemoQuanLyKho/PhanMemBanHang.exe.config",
+		"/D/USERS/Downloads/yourmapname (4).js",
+		"/D/PROJECTS/BATDONGSAN/RealEstate/DatWeb.Website/Themes/RealEstate/Content/Scripts/addthis_widget.js",
+		"/D/USERS/Downloads/yourmapname (5).js",
+		"/D/PROJECTS/BATDONGSAN/RealEstate/DatWeb.Website/Themes/RealEstate/Content/plugins/mapael/examples.js",
+		"/D/USERS/Downloads/yourmapname (3).js",
+		"/D/USERS/Downloads/yourmapname (2).js",
+		"/D/USERS/Downloads/yourmapname (1).js",
+		"/D/PROJECTS/BATDONGSAN/RealEstate/DatWeb.Website/Themes/RealEstate/Content/plugins/mapael/js/maps/map_data.js",
+		"/D/PROJECTS/BATDONGSAN/TuanNews/SkyIT.Website/SkyIT.Website/Web.config",
+		"/D/PROJECTS/PHUTUNG_OTO/SkyIT/SkyIT/Web.config",
+		"/D/USERS/Desktop/temp.html",
+		"/D/USERS/Downloads/yourmapname.js",
+		"/C/wamp/www/NORTHWIND/addtocart.php",
+		"/C/wamp/www/NORTHWIND/header.php",
+		"/C/wamp/www/NORTHWIND/login.php",
+		"/C/wamp/www/NORTHWIND/index.php",
+		"/C/wamp/www/NORTHWIND/removefromcart.php",
+		"/C/wamp/www/NORTHWIND/contents/js/ajax.js",
+		"/D/CLOUDs/Dropbox/HCDH/LTWEB/NPPNAM/Javascript/src/07.FocusAndBlur.html",
+		"/C/wamp/www/NORTHWIND/logout.php",
+		"/C/wamp/www/NORTHWIND/functions/library.php",
+		"/D/CLOUDs/Dropbox/HCDH/LTWEB/NPPNAM/Javascript/src/01.FormFields.html",
+		"/D/CLOUDs/Dropbox/HCDH/LTWEB/NPPNAM/Javascript/src/08.Change.html",
+		"/C/wamp/www/NORTHWIND/register.php",
+		"/C/wamp/www/NORTHWIND/functions/presentation.php",
+		"/D/CLOUDs/Dropbox/HCDH/Lập Trình Web/NPPNAM/Javascript/src/02.Login.html",
+		"/D/CLOUDs/Dropbox/HCDH/Lập Trình Web/NPPNAM/Javascript/src/05.Checkboxes.html",
+		"/D/CLOUDs/Dropbox/HCDH/Lập Trình Web/NPPNAM/Javascript/src/04.RadioArray.html",
+		"/D/CLOUDs/Dropbox/HCDH/Lập Trình Web/NPPNAM/Javascript/src/01.FormFields.html",
+		"/D/CLOUDs/Dropbox/HCDH/Lập Trình Web/NPPNAM/Javascript/src/03.Login2.html",
+		"/D/CLOUDs/Dropbox/HCDH/Lập Trình Web/NPPNAM/Javascript/src/06.SelectMenus.html",
+		"/D/CLOUDs/Dropbox/HCDH/Lập Trình Web/NPPNAM/Javascript/src/07.FocusAndBlur.html",
+		"/C/wamp/www/northwind/registersuccess.php",
+		"/C/wamp/www/northwind/register.php",
+		"/C/wamp/www/northwind/logout.php",
+		"/C/wamp/www/northwind/removefromcart.php",
+		"/C/wamp/www/northwind/showcart.php",
+		"/C/wamp/www/northwind/header.php",
+		"/C/wamp/www/northwind/addtocart.php",
+		"/C/wamp/www/northwind/main.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getFirstCharactor",
+			"zoomSelectedArea",
+			"selectElement",
+			"zoomSelectedArea",
+			"zoom",
+			"selectElement",
+			"$(\".mapcontainer\")",
+			"selectElement",
+			"select",
+			"selectArea",
+			"selectElement",
+			"zoomSelectedArea",
+			"selectElement",
+			"mapElem",
+			"zoomSelectedArea",
+			"selectElement",
+			"zoomSelectedArea",
+			"selectArea(",
+			"selectArea",
+			"zoomSelectedArea",
+			"default",
+			"zoomSelectedArea(",
+			"selectArea(",
+			"obj.",
+			"obj",
+			"obj.",
+			"obj",
+			"selectArea(",
+			"selectArea",
+			"map_element",
+			"map_object",
+			"map_element",
+			"legend_area_styles",
+			"system.web.mvc",
+			"MVCWithAutofacDB",
+			"Autofac",
+			".main-navigation li a",
+			"screen and (min-width: 960px)",
+			"@media screen and (min-width: 600px) {",
+			"\n	",
+			"0975",
+			"text",
+			"form1",
+			"Home",
+			"<img",
+			"/",
+			"..",
+			"M,0,0",
+			"}\n",
+			"<a",
+			"a",
+			"<a",
+			"divT",
+			"echo",
+			");\n",
+			"\");\n",
+			"CART",
+			"$page",
+			"cat_array",
+			"cat_array ",
+			"display",
+			"session"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$mapael",
+			"zoomSelectedArea(",
+			"defaults",
+			"zoomSelectedArea(",
+			"$cur_page"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "angular_mvc/Views/Product/Index.cshtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ASP/HTML-ASP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "angular_mvc/Scripts/services.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "angular_mvc/Scripts/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								545,
+								545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "angular_mvc/Scripts/controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "angular_mvc/Views/Home/Contact.cshtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "angular_mvc/Views/Shared/_Layout.cshtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1822,
+								1822
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "aglr_mvc.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style",
+				"twentytwelve\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
